@@ -37,9 +37,15 @@ export default function Header() {
           </Link>
         </div>
 
-        <button className="bg-blue-800 hover:bg-blue-700 text-white px-6 py-2.5 rounded-lg text-sm font-medium transition-all duration-200">
-          OPEN DOCS
-        </button>
+<a
+  href="https://anivisuais.gitbook.io/anivisual/what-is-ani-visuais"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <button className="bg-blue-800 hover:bg-blue-700 text-white px-6 py-2.5 rounded-lg text-sm font-medium transition-all duration-200">
+    OPEN DOCS
+  </button>
+</a>
       </nav>
     </header>
   );
