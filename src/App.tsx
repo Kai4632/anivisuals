@@ -9,6 +9,7 @@ import About from "./pages/about/index"
 import Contact from "./pages/contact/index"
 import AnimeGeneration from "./pages/anime-generation/index"
 
+// App component
 function App() {
   return (
     <Router>
