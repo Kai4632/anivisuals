@@ -51,7 +51,7 @@ export default function Home() {
             <div className="bg-blue-900/40 backdrop-blur-xl border border-blue-700/30 rounded-2xl p-8 max-w-lg shadow-2xl -mt-32">
               <div className="mb-8">
                 <h3 className="text-2xl font-black text-white mb-4 font-mono">
-                  $PANEL TOKEN
+                  $VISUAL TOKEN
                 </h3>
                 <p className="text-gray-200 text-base leading-relaxed mb-4 font-mono">
                   The utility token powering cross-chain
