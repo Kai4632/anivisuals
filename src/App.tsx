@@ -62,7 +62,7 @@ function App() {
               />
             </svg>
             <p className="text-gray-400 text-xs font-mono">
-              powered by groks
+              powered by GROK
             </p>
           </div>
         </footer>
