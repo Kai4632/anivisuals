@@ -1,0 +1,8 @@
+curl https://api.openai.com/v1/responses \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer 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" \
+  -d '{
+    "model": "gpt-4o-mini",
+    "input": "write a haiku about ai",
+    "store": true
+  }'
