@@ -117,7 +117,7 @@ export default function Home() {
                 </svg>
                 CREATE
                 <br />
-                AGENT
+                VISUAL
               </button>
             </div>
           </div>
@@ -180,7 +180,7 @@ export default function Home() {
               clipRule="evenodd"
             />
           </svg>
-          CREATE AGENT
+          CREATE VISUAL
         </button>
 
         {/* Mobile token card */}
