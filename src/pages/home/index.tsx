@@ -25,7 +25,7 @@ export default function Home() {
           <p className="text-white text-lg font-mono leading-relaxed max-w-md">
             AI-agent automating social media and
             <br />
-            on-chain actions via Solana.
+            on-chain actions on Solana.
           </p>
         </div>
 
