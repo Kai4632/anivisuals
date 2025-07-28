@@ -186,7 +186,7 @@ export default function Home() {
         {/* Mobile token card */}
         <div className="bg-blue-900/40 backdrop-blur-xl border border-blue-700/30 rounded-2xl p-6 w-full max-w-sm shadow-2xl">
           <h3 className="text-xl font-black text-white mb-3 font-mono">
-            $PANEL TOKEN
+            $VISUAL TOKEN
           </h3>
           <p className="text-gray-200 text-sm mb-2 font-mono">
             The utility token powering cross-chain infrastructure.
