@@ -4,6 +4,14 @@
 
 Ani-Visuals is a web application that transforms your photographs into anime-style artwork using AI. Upload an image, choose your desired style, and watch as the AI reimagines your photo with anime aesthetics.
 
+## Screenshots
+
+### Landing Page
+![Landing Page](./src/assets/landingpage.png)
+
+### Anime Generation Interface
+![Anime Generation Page](./src/assets/anime-page.png)
+
 ## What Ani-Visuals Does
 
 Ani-Visuals takes your uploaded images and applies anime-style transformations using Replicate's Flux Kontext Pro AI model. You can upload photos in JPEG, PNG, or WebP formats (up to 10MB) and transform them into various artistic styles.
