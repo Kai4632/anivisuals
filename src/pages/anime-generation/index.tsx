@@ -17,7 +17,7 @@ export default function AnimeGeneration() {
     null
   );
   const [prompt, setPrompt] = useState(
-    "Please convert this image into Studio Ghibli art style with the G"
+    "Convert this image into an anime style version of it resembling the original character"
   );
   const [isProcessing, setIsProcessing] = useState(false);
   const [progress, setProgress] = useState(0);
