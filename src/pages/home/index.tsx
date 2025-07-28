@@ -148,7 +148,7 @@ export default function Home() {
       <div className="lg:hidden absolute inset-0 bg-gradient-to-br from-slate-900/95 via-blue-950/95 to-purple-950/95 flex flex-col items-center justify-center p-6 space-y-8 z-30">
         {/* Mobile description */}
         <p className="text-white text-center max-w-sm text-sm font-mono pt-8">
-          AI-agent automating social media and on-chain actions via Solana.
+          AI-agent automating social media and on-chain actions on Solana.
         </p>
 
         {/* Mobile title */}
