@@ -73,7 +73,12 @@ export default function Home() {
                   </svg>
                   INSTALL BUILD
                 </button>
-                <button className="flex-1 bg-blue-800 hover:bg-blue-700 text-white py-3 px-4 rounded-full font-bold transition-all duration-200 flex items-center justify-center gap-3 text-sm font-mono shadow-lg">
+                <a 
+                  href="https://x.com/anivisuais" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="flex-1 bg-blue-800 hover:bg-blue-700 text-white py-3 px-4 rounded-full font-bold transition-all duration-200 flex items-center justify-center gap-3 text-sm font-mono shadow-lg"
+                >
                   <svg
                     className="w-4 h-4"
                     fill="currentColor"
@@ -82,7 +87,7 @@ export default function Home() {
                     <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
                   </svg>
                   OUR TWITTER
-                </button>
+                </a>
               </div>
             </div>
           </div>
@@ -201,12 +206,17 @@ export default function Home() {
               </svg>
               INSTALL BUILD
             </button>
-            <button className="bg-blue-800 hover:bg-blue-700 text-white py-2 px-4 rounded-full font-bold transition-all duration-200 flex items-center justify-center gap-2 text-sm font-mono shadow-lg">
+            <a 
+              href="https://x.com/anivisuais" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="bg-blue-800 hover:bg-blue-700 text-white py-2 px-4 rounded-full font-bold transition-all duration-200 flex items-center justify-center gap-2 text-sm font-mono shadow-lg"
+            >
               <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
               </svg>
               OUR TWITTER
-            </button>
+            </a>
           </div>
         </div>
 
