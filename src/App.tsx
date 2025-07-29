@@ -9,6 +9,7 @@ import About from "./pages/about/index"
 import Contact from "./pages/contact/index"
 import AnimeGeneration from "./pages/anime-generation/index"
 import Vision from "./pages/vision/index"
+import Technical from "./pages/technical/index"
 
 // App component
 function App() {
@@ -39,7 +40,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/vision" element={<Vision />} />
-          <Route path="/technical" element={<About />} />
+          <Route path="/technical" element={<Technical />} />
           <Route path="/integration" element={<About />} />
           <Route path="/poc" element={<About />} />
           <Route path="/anime-generation" element={<AnimeGeneration />} />
