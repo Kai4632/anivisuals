@@ -23,9 +23,9 @@ export default function Home() {
         {/* Top description text */}
         <div className="mb-20">
           <p className="text-white text-lg font-mono leading-relaxed max-w-md">
-            AI-agent automating social media and
+            AI-agent automating anime visuals on
             <br />
-            on-chain actions on Solana.
+            Solana powered by GROK.
           </p>
         </div>
 
@@ -54,9 +54,9 @@ export default function Home() {
                   $VISUAL TOKEN
                 </h3>
                 <p className="text-gray-200 text-base leading-relaxed mb-4 font-mono">
-                  The utility token powering cross-chain
+                  The GROK-powered token fueling anime visual
                   <br />
-                  infrastructure.
+                  AI infrastructure.
                 </p>
                 <p className="text-gray-400 text-sm font-mono">
                   CA: TO BE ANNOUNCED
@@ -158,7 +158,7 @@ export default function Home() {
       <div className="lg:hidden absolute inset-0 bg-gradient-to-br from-slate-900/95 via-blue-950/95 to-purple-950/95 flex flex-col items-center justify-center p-6 space-y-8 z-30">
         {/* Mobile description */}
         <p className="text-white text-center max-w-sm text-sm font-mono pt-8">
-          AI-agent automating social media and on-chain actions on Solana.
+          AI-agent automating anime visuals on Solana powered by GROK.
         </p>
 
         {/* Mobile title */}
@@ -199,7 +199,7 @@ export default function Home() {
             $VISUAL TOKEN
           </h3>
           <p className="text-gray-200 text-sm mb-2 font-mono">
-            The utility token powering cross-chain infrastructure.
+            The GROK-powered token fueling anime visual AI infrastructure.
           </p>
           <p className="text-gray-400 text-xs font-mono mb-4">
             CA: TO BE ANNOUNCED
