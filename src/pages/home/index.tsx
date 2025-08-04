@@ -59,7 +59,7 @@ export default function Home() {
                   AI infrastructure.
                 </p>
                 <p className="text-gray-400 text-sm font-mono">
-                  CA: 4rBntQxf3Sm8bdU2M5TF8eSPGseYW86FeChCiPakbonk
+                  CA: to be announced
                 </p>
               </div>
               <div className="flex gap-4">
@@ -202,7 +202,7 @@ export default function Home() {
             The GROK-powered token fueling anime visual AI infrastructure.
           </p>
           <p className="text-gray-400 text-xs font-mono mb-4">
-            CA: 4rBntQxf3Sm8bdU2M5TF8eSPGseYW86FeChCiPakbonk
+            CA: to be announced
           </p>
           <div className="flex flex-col gap-3">
             <a 
