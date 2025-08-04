@@ -59,7 +59,7 @@ export default function Home() {
                   AI infrastructure.
                 </p>
                 <p className="text-gray-400 text-sm font-mono">
-                  CA: TO BE ANNOUNCED
+                  CA: 4rBntQxf3Sm8bdU2M5TF8eSPGseYW86FeChCiPakbonk
                 </p>
               </div>
               <div className="flex gap-4">
