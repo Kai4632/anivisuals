@@ -7,10 +7,10 @@ Ani-Visuals is a web application that transforms your photographs into anime-sty
 ## Screenshots
 
 ### Landing Page
-![Landing Page](https://res.cloudinary.com/staunchngdev/image/upload/v1753663637/landingpage_nvx22y.png)
+![Landing Page]([https://res.cloudinary.com/staunchngdev/image/upload/v1753663637/landingpage_nvx22y.png](https://media.discordapp.net/attachments/1335717863016759407/1401996855117742080/image.png?ex=68924ed2&is=6890fd52&hm=00a0c47fb2d2d28db2913df92112b6da4e3cbf710131a8e22ff68036a9696108&=&format=webp&quality=lossless&width=906&height=432))
 
 ### Anime Generation Interface
-![Anime Generation Page](https://res.cloudinary.com/staunchngdev/image/upload/v1753663636/anime-page_s84kvt.png)
+![Anime Generation Page]([https://res.cloudinary.com/staunchngdev/image/upload/v1753663636/anime-page_s84kvt.png](https://media.discordapp.net/attachments/1335717863016759407/1401997031450476604/image.png?ex=68924efc&is=6890fd7c&hm=b7ee83fe293bf9c2766d2d078b0a6cca9d29e4d5d6b1844e8c50997cc88baa2b&=&format=webp&quality=lossless&width=906&height=416))
 
 ## What Ani-Visuals Does
 
